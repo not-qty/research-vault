@@ -92,3 +92,11 @@ After each research session, append a dated log entry at the bottom of this file
 - Created research-vault on /lab storage
 - Linked to GitHub repo not-qty/research-vault
 - Skills: youtube-search, youtube-pipeline installed
+
+### 2026-03-24 — Full research infrastructure setup
+- Built: research-vault, 9 CC skills, Open Notebook, desktop launchers
+- Skills installed: youtube-search, youtube-pipeline, open-notebook, ollama, lancedb-search, kestra, arxiv, research-pipeline + notebooklm
+- Apps added: Obsidian v1.12.7, ChatKeeper v2026.03.046, Open Notebook (Docker)
+- GitHub: not-qty/research-vault (public), OLS ols-ai-lab-setup (session report)
+- What worked: building skills from live API exploration, extracting icons from AppImages
+- Open items: notebooklm login needed, Open Notebook model config needed at localhost:8502
