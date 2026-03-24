@@ -1,0 +1,17 @@
+# Downloaded artifacts (large files)
+YouTube/**/*.mp3
+YouTube/**/*.mp4
+YouTube/**/*.pdf
+YouTube/**/*.png
+
+# Auth / secrets
+.notebooklm/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
